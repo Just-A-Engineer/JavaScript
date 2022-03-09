@@ -12,9 +12,3 @@ test("Click On Element", async ({page}) => {
     const pageTitle = await page.locator("h1");
     await expect(pageTitle).toContainText("Web Scraping Sandbox");
 })
-
-test("Find Sony Logo", async ({page}) => {
-    await page.goto("https://playstation.com/");
-    const pageTitle = await page.locator(".sr-only");
-    await expect(pageTitle).toContainText("Sony");
-})
