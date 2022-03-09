@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript Repository
 
 ## Some information about Web Automation Repo
 - I am following a course on Udemy about Web Automation using Playwright. I am really enjoying it so far. 
