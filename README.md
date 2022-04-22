@@ -1,8 +1,14 @@
-# JavaScript Repository
+# C# Directory
+============================</br>
 
-## Some information about Web Automation Repo
-- I am following a course on Udemy about Web Automation using Playwright. I am really enjoying it so far. 
-- I have even started to branch out into doing my own things. That's where the playstationTest.spec.js file came from. 
-- I thought to myself, *"What could I test, that I would actually use?"* This is what came to mind. 
-- I still have some learning to do when it comes to Playwright. But I will be updating this README.md file, as well as the GitHub repo as a whole. 
-- Let me know what you think, I would love to hear some feedback on things I might be able to do better. 
+This is the beginning of what I'm guessing will be a pretty large repo. Just creating some basic stuff right now, but will be expanding into ASP.NET and .NET desktop type work.
+
+## CalculatorCS Repo
+============================</br>
+- This is one of the first *major* projects I've done in C#. 
+- As such, I ran into a few problems. Nothing major, just simple debugging issues. Things like: 
+- * Missing a semicolon
+- * Misspelling a variable or variable declaration.
+- Pretty simple things in my opinion. Also pretty easy to catch. 
+- I plan on expanding on this app every once and awhile. As I learn more and more about C#.
+
